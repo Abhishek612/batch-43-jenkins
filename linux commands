@@ -17,3 +17,54 @@ root@linuxvm:/var/log# history
    14  cat auth.log | grep error
    15  cat auth.log | grep vikas4cloud
    16  history
+
+
+day-2 
+
+root@day2:~# history
+    1  ssh-keygen
+    2  cd /root/.ssh/
+    3  ls
+    4  cat id_ed25519.pub
+    5  pwd
+    6  cd ~
+    7  ls
+    8  mkdir folder
+    9  ls
+   10  touch amitfile
+   11  ls
+   12  cat amitfile 
+   13  cp amitfile vivekfile
+   14  ls
+   15  mv vivekfile ravifile
+   16  ls
+   17  vi amitfile
+   18  cat amitfile 
+   19  hostname
+   20  hostanem -i
+   21  hostname -i
+   22  curl ifconfig.me
+   23  uname
+   24  uname -a
+   25  ls
+   26  rm ravifile
+   27  echo "hello batch-43 students"
+   28  history
+   29  man hostname -i
+   30  w
+   31  clear
+   32  w
+   33  who
+   34  whoami
+   35  w
+   36  uptime
+   37  top
+   38  qqq
+   39  free
+   40  free -m
+   41  free -g
+   42  free -h
+   43  df
+   44  df -m
+   45  df -h
+   46  history
