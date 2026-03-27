@@ -221,3 +221,42 @@ root@debrajvmforlinux:~# history
    79  ss
    80  dig google.com
    81  history
+
+day-5
+
+
+ 82  ss
+   83  dmesg
+   84  dmesg > startup.log
+   85  ls
+   86  lsblk
+   87  cat /proc/cpuinfo 
+   88  free -h
+   89  df
+   90  lshw
+   91  cd /var/log/
+   92  ls
+   93  cat auth.log 
+   94  cat auth.log | grep fail
+   95  ls -l
+   96  systemctl status nginx
+   97  q
+   98  systemctl stop nginx
+   99  systemctl status nginx
+  100  top
+  101  ps -aef
+  102  ps -aef | grep nginx
+  103  systemctl start nginx
+  104  systemctl status nginx
+  105  qqq
+  106  ps -aef | grep nginx
+  107  kill -9 127639
+  108  df -h
+  109  cd /dev/root
+  110  ls
+  111  ls -l
+  112  exit
+  113  history
+  114  df- h
+  115  df -h
+  116  history
