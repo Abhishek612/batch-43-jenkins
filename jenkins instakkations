@@ -1,4 +1,4 @@
-9 11 17 23
+9 11 17 23  27 28 30
 
 Approach 4 :- Install Jenkins On Ubuntu    (this is production / real time approach)
 
@@ -27,6 +27,8 @@ Step 4: Install Jenkins
 sudo apt update
  sudo apt install jenkins
 Step 5: Verify installation
+
+
 systemctl status jenkins
 
 Step 6: Once Jenkins is up and running, access it from the
